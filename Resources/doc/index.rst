@@ -117,7 +117,8 @@ start:
 .. configuration-block::
 
     .. code-block:: php-annotations
-
+        
+        <?php
         // src/AppBundle/Entity/User.php
 
         namespace AppBundle\Entity;
